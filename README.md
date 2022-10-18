@@ -1,4 +1,3 @@
-# shop
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,8 +5,8 @@
 </head>
 <body>
 
-<h1>Szeretem a tejt</h1>
-<p>Meg a kakaót!.</p>
+<h1>:3</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
